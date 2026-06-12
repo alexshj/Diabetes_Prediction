@@ -8,7 +8,7 @@ import joblib
 
 st.set_page_config(
     page_title="Diabetes Risk Prediction",
-    page_icon="🩺",
+    
     layout="wide"
 )
 
