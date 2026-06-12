@@ -435,5 +435,5 @@ st.markdown("""
 
 ---
 
-Developed as part of the IEEE AI/ML/DL Internship Program
+
 """)
