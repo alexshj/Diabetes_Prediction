@@ -1,6 +1,5 @@
 # 🩺 Diabetes Risk Prediction Web Application
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetespredictiongit-inql8uanwywdaxkf5wwjnb.streamlit.app)
 
 ## 🚀 Live Application
 
